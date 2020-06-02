@@ -6,7 +6,7 @@ version: 14
 ---
 
 # Adding Meta-data to Markdown
-2
+3
 Some Text
 
 Some Text
